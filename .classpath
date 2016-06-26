@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/fluent-hc-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/httpclient-cache-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/httpClient/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/htmlparser1_6/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/htmlparser1_6/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/htmlparser1_6/htmlparser.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/htmlparser1_6/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/htmlparser1_6/sax2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/htmlparser1_6/thumbelina.jar"/>
+	<classpathentry kind="lib" path="Dependencies/jsoup-1.8.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="Dependencies/jsoup-1.8.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
